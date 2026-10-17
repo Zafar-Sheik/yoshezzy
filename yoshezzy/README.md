@@ -58,7 +58,7 @@ Custom cursor on desktop only. Everything respects `prefers-reduced-motion`.
 ## Before launch — checklist
 
 1. **Photos.** Put images in `public/images/` and set the paths in `lib/data.ts → images`
-   (until then each slot shows a branded sunset placeholder). Hero works best as a 3:4 portrait.
+   (until then each slot shows a branded monochrome placeholder). Hero works best as a 3:4 portrait.
 2. **Numbers.** Update `stats` in `lib/data.ts` — follower counts move fast.
 3. **Domain.** Set `site.url` in `lib/data.ts` (used for SEO metadata).
 4. **Get Shezzy / his team to sign off** on the bio copy and services list.
